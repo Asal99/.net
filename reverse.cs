@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Ncit_lab_asal1
 {
-    class Class1
+    class StringManipulation
     {
         static void Main(string[] args)
         {
